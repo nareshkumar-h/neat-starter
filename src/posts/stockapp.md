@@ -5,8 +5,7 @@ date: 2020-01-02
 duration: 60
 status: PUBLISHED
 category: projects
-tags:
-layout: layouts/post.njk
+
 ---
 
 
